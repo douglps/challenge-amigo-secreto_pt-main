@@ -34,4 +34,4 @@ Douglas Lopes — Desenvolvedor do Projeto através de Exercícios Challenge Alu
 
 ## Demonstração
 
-[![Demonstração do Gerenciador de Amigos e Sorteio Aleatório](assets/exemplo.mp4)
+[Demonstração do Gerenciador de Amigos e Sorteio Aleatório](assets/exemplo.gif)
